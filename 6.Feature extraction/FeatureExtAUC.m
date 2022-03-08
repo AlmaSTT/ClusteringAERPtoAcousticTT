@@ -1,4 +1,5 @@
-%Feature extraction per therapy
+%%Feature extraction per therapy
+%by AlmaSTT
 %1) Calculate the AUC per therapy and initial and final sesion
 aucs1=ERPauc(ERPga1);
 aucs4=ERPauc(ERPga4);
