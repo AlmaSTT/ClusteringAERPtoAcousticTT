@@ -1,5 +1,4 @@
-# ClusteringAERPtoAcousticTT
-Clustering Approach based on Psychometrics and Auditory Event-related Potentials to evaluate Acoustic Therapy Effects
+# Clustering Approach based on Psychometrics and Auditory Event-related Potentials to evaluate Acoustic Therapy Effects
 
 This repository contain all the needed fuctions to develop step-by-step procedure to estimate the AUC feature for the cluster analysis. AUC refers to the area under the curve of the difference between AERPs of the initial an final sessions of the experimental procedure.
 
